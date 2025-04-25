@@ -1,2 +1,7 @@
-# HannhhDangg-OOP_N03_Term3_2025_K17_Group12
-.
+# Group 12 Project:
+
+#Members:
+1. Nguyen Manh Hoa
+2. Nguyen Dinh Dat
+3. Nguyen Dang Hanh
+4. Nguyen Le Thu
