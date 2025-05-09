@@ -6,6 +6,7 @@
 3. Nguyen Dang Hanh
 4. Nguyen Le Thu
 
+
 Câu 1 : Quản lý shop bán quần áo
 Câu 2 :
     + Lớp Product (Sản phẩm) Đây là lớp cơ bản đại diện cho một sản phẩm quần áo, bao gồm thông tin về tên sản phẩm, loại, kích cỡ, màu sắc, giá, v.v.   
